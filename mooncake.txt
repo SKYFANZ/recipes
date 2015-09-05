@@ -1,0 +1,12 @@
+This is the receipe for mooncake
+
+11:12:2015 08:34 
+	Amount	Unit/$	
+		
+	  5	$10
+
+
+Total: $50
+
+Thank you for purchasing
+[END]
